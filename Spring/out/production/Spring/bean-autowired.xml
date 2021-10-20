@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        https://www.springframework.org/schema/context/spring-context.xsd">
+
+<!--    for activating the @Autowired Annotation-->
+        <context:annotation-config />
+
+<!--    byName Autowiring-->
+<!--        <bean id="heart" class="com.example.autowired.Heart" />-->
+<!--        <bean id="human" class="com.example.autowired.HumanHeart" autowire="byName">-->
+
+<!--    byType Autowiring-->
+<!--        <bean id="heartObject" class="com.example.autowired.Heart" />-->
+<!--        <bean id="human" class="com.example.autowired.HumanHeart" autowire="byType">-->
+
+<!--    byConstructor Autowiring-->
+<!--        <bean id="heart" class="com.example.autowired.Heart" />-->
+<!--        <bean id="human" class="com.example.autowired.HumanHeart" autowire="constructor">-->
+
+<!--    by @Autowired Annotation -->
+<!--        <bean id="heart" class="com.example.autowired.Heart" />-->
+<!--        <bean id="human" class="com.example.autowired.HumanHeart">-->
+
+<!--    @Qualifier Annotation        -->
+        <bean id="humanHeart" class="com.example.autowired.Heart" />
+        <bean id="animalHeart" class="com.example.autowired.Heart" />
+        <bean id="human" class="com.example.autowired.HumanHeart">
+
+    </bean>
+
+</beans>
