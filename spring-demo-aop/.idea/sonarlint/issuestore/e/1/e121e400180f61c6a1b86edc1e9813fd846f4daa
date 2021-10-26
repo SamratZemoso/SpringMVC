@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ê¤“Û8Ò½²àÉ/
+p
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ã«¹8èÿÏ÷É/
+p
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(½³À<8ëÿÏ÷É/
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ìÿÏ÷É/

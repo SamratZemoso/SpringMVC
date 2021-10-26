@@ -1,0 +1,7 @@
+
+c
+java:S1854"ARemove this useless assignment to local variable "membershipDAO".(ÝˆÊ¡úÿÿÿÿ8«Ö¼ÓÉ/
+T
+java:S1481"2Remove this unused "membershipDAO" local variable.(ÝˆÊ¡úÿÿÿÿ8±Ö¼ÓÉ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õŸßö8²Ö¼ÓÉ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾ÃË¢ÿÿÿÿÿ8²Ö¼ÓÉ/

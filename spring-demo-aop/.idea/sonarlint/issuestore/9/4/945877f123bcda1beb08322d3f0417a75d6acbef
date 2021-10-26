@@ -1,0 +1,10 @@
+
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ã¦„T
+<
+java:S1172"&Remove these unused method parameters.(ý­Û¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾´ôûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ìßûúÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÊŒ–…ùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¨Ê±øÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ÊŒ–…ùÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(¨Ê±øÿÿÿÿ
